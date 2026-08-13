@@ -5,8 +5,7 @@ Data Analyst | Statistics Postgraduate
 I use data analysis and statistical methods to uncover patterns, generate insights, and support data-driven business decisions.
 
 Data Analysis: Python, SQL, Advanced Excel, Power BI
-Statistics: Statistical Analysis, Regression, Time-Series Analysis
-                Other: Data Cleaning, Data Visualization, Exploratory Data Analysis
+Statistics: Statistical Analysis, Regression, Time-Series Analysis, Exploratory Data Analysis, Data Visualization
 
 ### 📊 Featured Projects
 - Store Data Analysis
