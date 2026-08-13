@@ -2,17 +2,11 @@ Hi, I'm Janhavi 👋
 
 Data Analyst | Statistics Postgraduate
 
-I'm interested in data analysis, statistical modelling and
-turning data into meaningful business insights.
+I use data analysis and statistical methods to uncover patterns, generate insights, and support data-driven business decisions.
 
-### 🛠️ Skills
-- Python
-- SQL
-- Advanced Excel
-- Power BI
-- Statistics
-- Data Analysis
-- Time Series Analysis
+### Data Analysis: Python, SQL, Advanced Excel, Power BI
+Statistics: Statistical Analysis, Regression, Time-Series Analysis
+Other: Data Cleaning, Data Visualization, Exploratory Data Analysis
 
 ### 📊 Featured Projects
 - Store Data Analysis
@@ -20,4 +14,5 @@ turning data into meaningful business insights.
 - NIFTY 50 Forecasting
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [GitHub](https://github.com/janhavianalyst-ds/janhavianalyst-ds)
+[LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [Email](janhavi.analyst@gmail.com)
+
