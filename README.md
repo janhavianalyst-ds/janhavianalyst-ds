@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi, I'm Janhavi 👋
 
-<!--
-**janhavianalyst-ds/janhavianalyst-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst | Statistics Postgraduate
 
-Here are some ideas to get you started:
+I'm interested in data analysis, statistical modelling and
+turning data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- Python
+- SQL
+- Advanced Excel
+- Power BI
+- Statistics
+- Data Analysis
+- Time Series Analysis
+
+### 📊 Featured Projects
+- Store Data Analysis
+- INR/USD Currency Volatility Forecasting
+- NIFTY 50 Forecasting
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [GitHub](https://github.com/janhavianalyst-ds/janhavianalyst-ds)
