@@ -14,5 +14,5 @@ Other: Data Cleaning, Data Visualization, Exploratory Data Analysis
 - NIFTY 50 Forecasting
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [Email](janhavi.analyst@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [Email](mailto:janhavi.analyst@gmail.com)
 
