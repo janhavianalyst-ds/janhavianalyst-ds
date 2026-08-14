@@ -6,7 +6,7 @@ I use data analysis and statistical methods to uncover patterns, generate insigh
 
           Data Analysis: Python, SQL, Advanced Excel, Power BI
            
-          Statistics: Statistical Analysis, Regression, Time-Series Analysis, Exploratory Data Analysis, Data Visualization
+          Statistics: Statistical Analysis, Regression, Time-Series Analysis
 
 ### 📊 Featured Projects
 - Store Data Analysis
