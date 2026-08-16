@@ -8,7 +8,7 @@ I use data analysis and statistical methods to uncover patterns, generate insigh
 ***Statistics:*** Statistical Analysis, Regression, Time-Series Analysis
 
 ### 📊 Featured Projects
-- Store Data Analysis
+- [Store Data Analysis](https://github.com/janhavianalyst-ds/Excel-Sales-Dashboard)
 - INR/USD Currency Volatility Forecasting
 - NIFTY 50 Forecasting
 
