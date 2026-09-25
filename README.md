@@ -9,6 +9,7 @@ I use data analysis and statistical methods to uncover patterns, generate insigh
 ###  Featured Projects
 - [Store Data Analysis](https://github.com/janhavianalyst-ds/Excel-Sales-Dashboard)
 - [INR/USD Currency Volatility Forecasting](https://github.com/janhavianalyst-ds/exchange-rate-volatility)
+- [SQL PIZZA SALES Analysis](https://github.com/janhavianalyst-ds/SQL-Pizza-Sales-Project)
 - NIFTY 50 Forecasting
 
 ###  Connect with me
