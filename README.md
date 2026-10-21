@@ -10,7 +10,7 @@ I use data analysis and statistical techniques to identify trends, uncover insig
 - [Store Data Analysis](https://github.com/janhavianalyst-ds/Excel-Sales-Dashboard)
 - [INR/USD Currency Volatility Forecasting](https://github.com/janhavianalyst-ds/exchange-rate-volatility)
 - [SQL PIZZA SALES Analysis](https://github.com/janhavianalyst-ds/SQL-Pizza-Sales-Project)
-- NIFTY 50 Forecasting
+- [NIFTY 50 Forecasting](https://github.com/janhavianalyst-ds/Stock-Market-Forecasting-Model)
 
 ###  Connect with me
 [LinkedIn](https://www.linkedin.com/in/janhavidiwakar/) | [Email](mailto:janhavi.analyst@gmail.com)
